@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1091540806541",
+    "project_id": "ironman-wallpaper-802a0",
+    "storage_bucket": "ironman-wallpaper-802a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091540806541:android:380ca691414c5f3cd32bc4",
+        "android_client_info": {
+          "package_name": "com.example.ironmanwallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091540806541-49h9vqvpqip0mjl225cl7qublsoes0ag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk11fGyW-X780_ptT0RphxWaWaS_hG9-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091540806541-49h9vqvpqip0mjl225cl7qublsoes0ag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
